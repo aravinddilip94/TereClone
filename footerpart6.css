@@ -1,0 +1,52 @@
+.footer-container{
+    display: flex;
+    flex-direction: column;
+    margin-top: 100px;
+}
+
+.footer-part1{
+    display: flex;
+    justify-content: space-around;
+    width: 90%;
+    flex-wrap: wrap;
+    padding: 50px;
+}
+
+.adrress-title{
+color: #272042;
+font-size: 14px;
+padding-bottom: 10px;
+}
+
+.add{
+    color: #8B8BA5;
+    font-size: 12px;
+}
+
+
+.footer-btn div{
+    display: flex;
+    background-color: black;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    padding: 5px 15px;
+    border-radius: 5px;
+}
+
+.ftdownload-bt{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    padding: 10px 20px;
+    border: 0px;
+}
+
+.footer-copyrights{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #75BF7A;
+    padding-bottom: 150px;
+}

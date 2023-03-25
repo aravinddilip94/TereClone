@@ -1,0 +1,78 @@
+.bodypart2{
+    display:flex;
+    padding: 2% 5%;
+  
+
+    display: flex;
+    background-color: #75BF7A;
+    height:auto;
+    border-radius: 5px;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    
+    box-sizing: border-box;
+    width: 100%;
+
+}
+
+.body2p{
+   
+    font-size: 16px;
+}
+
+.bodypart2-leftsection{
+    color: white;
+   
+    flex: 1;
+    font-weight: bold;
+    font-size: 20px;
+    padding-left: 0;
+    padding-right: 5%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+
+    
+   
+   
+}
+
+.bodypart2-middlesection{
+    
+    
+    
+    flex: 2;
+    
+    
+}
+
+.mobilenumber{
+    flex: 1;
+    height: 36px;
+    padding: 5%;
+    font-size: 16px;
+    border-radius: 0px;
+    width: 98%;
+    border-radius: 5px;
+    border: 0;
+
+}
+
+.bodypart2-rightsection{
+    
+    flex: 1;
+   
+    
+    
+}
+
+
+.apply-to-drive{
+
+    color: white;
+    background-color: black;
+    border-radius: 5px;
+    font-size: 15px;
+    cursor: pointer;
+    padding: 8% 15%;
+}
